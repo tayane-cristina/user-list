@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "newsTitle": "Lorem ipsum set amet Lorem ipsum set amet Lorem",
+      "theNews": "Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem"
+    },
+    {
+      "id": 2,
+      "newsTitle": "Lorem ipsum set amet Lorem ipsum set amet Lorem",
+      "theNews": "Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem"
+    },
+    {
+      "id": 3,
+      "newsTitle": "Lorem ipsum set amet Lorem ipsum set amet Lorem",
+      "theNews": "Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem"
+    },
+    {
+      "id": 4,
+      "newsTitle": "Lorem ipsum set amet Lorem ipsum set amet Lorem",
+      "theNews": "Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem Lorem ipsum set amet Lorem ipsum set amet Lorem"
+    },
+    {
+      "newsTitle": "Noticia nova",
+      "theNews": "Testando pra ver se funciona",
+      "id": 5
+    },
+    {
+      "newsTitle": "Mais uma notícia teste",
+      "theNews": "Apenas para testar",
+      "id": 6
+    },
+    {
+      "newsTitle": "Testando ",
+      "theNews": "Pela última vez",
+      "id": 7
+    }
+  ]
+}

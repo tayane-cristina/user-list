@@ -14,7 +14,7 @@ const Navbar = () => {
                 <span>Exibir Notícias</span>
                 <div className='search-space'>
                     <TextField id="" label="Search" variant="standard" size='small' />
-                    <Button variant="contained">Contained</Button>
+                    <Button variant="contained">Search</Button>
                 </div>
             </div>
         </div>

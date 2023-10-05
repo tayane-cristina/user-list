@@ -24,6 +24,10 @@
     padding: 10px;
 }
 
+textarea {
+    width: auto;
+}
+
 label{
     align-items: baseline;
     display: flex;
